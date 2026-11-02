@@ -1,0 +1,6 @@
+center_id,center_name,required_skill,open_hour,priority
+CC-14,Alder School,FIRST_AID,8,1
+CC-22,Beacon Library,LANGUAGE,9,2
+CC-35,Quarry Gym,GENERAL,10,3
+CC-41,Willow Hall,FIRST_AID,11,4
+CC-58,Mosaic Center,GENERAL,12,5
